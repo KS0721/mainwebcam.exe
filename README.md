@@ -46,7 +46,7 @@ pyinstaller -w -F --debug all --add-data "pyqtapp2.ui;." mainwebcam.py
 
 <img src="https://github.com/user-attachments/assets/ac2c9633-c11d-4146-ad17-a1a3eecab108" width="300"/>
 
-### 7 폴더 생성 확인
+### 7 파일생성 확인
 <img src="https://github.com/user-attachments/assets/4de1af65-554c-44c9-bfb7-42406c66d755" width="300"/>
 
 
